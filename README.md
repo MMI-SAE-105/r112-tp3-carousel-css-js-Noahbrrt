@@ -1,6 +1,6 @@
-- nom :
-- prénom :
-- URL Netlify :
+- nom : BARRET
+- prénom : Noah
+- URL Netlify : https://friendly-brioche-33a2c2.netlify.app/
 
 # Travail
 
